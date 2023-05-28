@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AdapterSchool",
+            "request": "launch",
+            "mainClass": "AdapterSchool",
+            "projectName": "DESIGN PATTERN_287fe9c7"
+        },
+        {
+            "type": "java",
+            "name": "BuilderShop",
+            "request": "launch",
+            "mainClass": "BuilderShop",
+            "projectName": "DESIGN PATTERN_287fe9c7"
+        },
+        {
+            "type": "java",
+            "name": "CompositeTest",
+            "request": "launch",
+            "mainClass": "CompositeDesign.com.composite.CompositeTest",
+            "projectName": "DESIGN PATTERN_287fe9c7"
+        },
+        {
+            "type": "java",
+            "name": "FactoryMain",
+            "request": "launch",
+            "mainClass": "FactoryMain",
+            "projectName": "DESIGN PATTERN_287fe9c7"
+        }
+    ]
+}
