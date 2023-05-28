@@ -1,18 +1,21 @@
-## Getting Started
+# Java Design Patterns :coffee:
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This repository provides an overview of common design patterns implemented in Java. 
 
-## Folder Structure
+## Introduction
 
-The workspace contains two folders by default, where:
+This repository explores common design patterns implemented in Java. :rocket:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Creational Patterns
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Structural Patterns
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Behavioral Patterns
 
-## Dependency Management
+## Conclusion
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Design patterns provide reusable solutions to common software design problems. :rocket:
+
+## References
+
+- Design Patterns: Elements of Reusable Object-Oriented Software by Gang of Four.
