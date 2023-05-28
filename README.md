@@ -6,11 +6,11 @@ This repository provides an overview of common design patterns implemented in Ja
 
 This repository explores common design patterns implemented in Java. :rocket:
 
-## Creational Patterns
+## Creational Patterns:page_with_curl:
 
-## Structural Patterns
+## Structural Patterns:file_folder:
 
-## Behavioral Patterns
+## Behavioral Patterns:dart:
 
 ## Conclusion
 
