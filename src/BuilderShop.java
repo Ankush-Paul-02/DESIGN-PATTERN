@@ -1,5 +1,5 @@
-import BuilderPattern.com.phone.Phone;
-import BuilderPattern.com.phone.PhoneBuilder;
+import BuilderDesign.com.phone.Phone;
+import BuilderDesign.com.phone.PhoneBuilder;
 
 /**
  * The builder pattern is a design pattern designed to provide a flexible solution to 
